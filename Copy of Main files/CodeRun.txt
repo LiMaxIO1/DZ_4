@@ -1,0 +1,4 @@
+py assembler.py program.asm program.bin log.csv
+
+py interpreter.py program.bin result.csv 0 10
+
